@@ -22,6 +22,8 @@ usuario = {
     'clave_secreta': ''
 }
 
+##DESCOMENTAR LO NECESARIO!!
+
 # 1 Probar CRUD
 
 # user.agregar_usuario(usuario)
